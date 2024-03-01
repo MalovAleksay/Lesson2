@@ -36,6 +36,13 @@
 | Cell 1   | Cell 2   |
 | Cell 3   | Cell 4   |
 
+Чтобы настроить выравнивание столбцов, используя двоеточие (:) и (-) в строке заголовка. Например:
+
+| Left-aligned | Centered | Right-aligned |
+| :--- | :---:| ---: |
+| Left | Center | Right |
+| Left | Center | Right |
+
 
 ## Цитаты
 
